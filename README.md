@@ -1,2 +1,5 @@
 # LoginRegisterFirebaseSwiftUI
-Login and Register view for Firebase built with SwiftUI
+
+A beautiful view that communicates with Firebase and lets the user Login and Register via E-Mail and Password
+
+
